@@ -21,7 +21,7 @@ Live Site URL:[CLICKHERE!](https://kevengoncabral.github.io/Price-card-html/)
 - Mobile-first workflow
 - [GIMP](https://www.gimp.org/) - Gimp
 - [HTML](https://www.w3.org/html/) - HTMl MarkLanguage
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"} - CSS MarkLanguage
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - CSS MarkLanguage
 
 
 
