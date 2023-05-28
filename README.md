@@ -1,1 +1,42 @@
-# Price-card-html
+# ✨ Frontend Mentor - Product preview card component solution
+
+
+## ⚙ About 
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+
+
+## 💻 Project
+
+.
+
+### 🔗 Links
+- Live Site URL:
+
+
+## 🔨 Tools 
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- [GIMP]() - Gimp
+- [HTML](https://www.w3.org/html/) - HTMl MarkLanguage
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - CSS MarkLanguage
+
+
+
+
+## 📖What I learned
+
+I learn more about of the concepts of html and css, and how they work together.
+
+
+
+## 👨‍💻 Author
+
+- Website - [Keven Gonçalves Cabral](https://github.com/KevenGonCabral)
+
+- Linkedin - [Keven Gonçalves](https://www.linkedin.com/in/keven-gon%C3%A7alves-5756a4245/)
+
+
