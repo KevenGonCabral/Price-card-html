@@ -1,3 +1,4 @@
+
 # ✨ Frontend Mentor - Product preview card component solution
 
 
@@ -8,8 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## 💻 Project
-
-.
+![WhatsApp Image 2023-05-28 at 00 45 26](https://github.com/KevenGonCabral/Price-card-html/assets/116415920/d3bfcca6-4922-433d-a094-025f47e81ae4)
 
 ### 🔗 Links
 - Live Site URL:
