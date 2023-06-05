@@ -18,9 +18,7 @@ Live Site URL:[CLICKHERE!](https://kevengoncabral.github.io/Price-card-html/)
 
 ## 🔨 Tools 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Mobile-first workflow
+
 - [GIMP](https://www.gimp.org/) - Gimp
 - [HTML](https://www.w3.org/html/) - HTMl MarkLanguage
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - CSS MarkLanguage
